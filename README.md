@@ -1,4 +1,4 @@
-# JavaFX 2D Apple Dash Platformer
+# 2D Apple Dash Platformer
 
 A 2D arcade platformer game developed in Java using JavaFX. The player navigates a multi-tiered level to collect animated apples, evade dynamically spawning spike hazards, and use a score-powered ability to clear obstacles.
 
